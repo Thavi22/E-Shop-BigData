@@ -76,18 +76,4 @@ Para testar o funcionamento do sistema, serão utilizados dados fictícios criad
 
 docker-compose up
 
-## Exemplos Visuais da Aplicação
-
-### 🖥️ Tela Inicial do Sistema
-![Tela Inicial](exemplos/formulario_cadastro.png)
-
-### ✅ Cliente Cadastrado
-![Cliente Cadastrado](exemplos/cliente_cadastro.png)
-
-### 📋 Visualização dos Clientes
-![Visualização](exemplos/visualizacao_clientes.png)
-
-### ❌ Exclusão de Cliente
-![Exclusão](exemplos/exclusao_cadastro.png)
-
 
