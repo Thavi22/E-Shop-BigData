@@ -70,7 +70,7 @@ Para testar o funcionamento do sistema, serão utilizados dados fictícios criad
 
 ### Pré-requisitos:
 - Docker instalado na máquina
-- Python (se preferir rodar localmente sem Docker)
+- Python 
 
 ### Passos para rodar o projeto com Docker Compose:
 
