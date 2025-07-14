@@ -74,20 +74,20 @@ Para testar o funcionamento do sistema, serão utilizados dados fictícios criad
 
 ### Passos para rodar o projeto com Docker Compose:
 
-```bash
 docker-compose up
 
-## Exemplos Vísuais da Aplicação
+## Exemplos Visuais da Aplicação
 
-### Tela Inicial do Sistema 
-![Tela Inicial](Exemplos/Formulario_cadastro.png)
+### 🖥️ Tela Inicial do Sistema
+![Tela Inicial](exemplos/formulario_cadastro.png)
 
-###  Cliente Cadastrado
-![Cadastro](Exemplo/Cliente_cadastro.png)
+### ✅ Cliente Cadastrado
+![Cliente Cadastrado](exemplos/cliente_cadastro.png)
 
-###Visualização dos Clientes
-![Visualização](Exemplos/Visualizacao_clientes.png)
+### 📋 Visualização dos Clientes
+![Visualização](exemplos/visualizacao_clientes.png)
 
-###Exclusão de Cliente
-![Exclusão](Exemplos/Exclusao_cadastro.png) 
+### ❌ Exclusão de Cliente
+![Exclusão](exemplos/exclusao_cadastro.png)
+
 
