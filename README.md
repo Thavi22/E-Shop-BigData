@@ -76,7 +76,6 @@ Para testar o funcionamento do sistema, serão utilizados dados fictícios criad
 
 docker-compose up
 
-##Levantamento de Soluções e Análise Crítica 
 
 ## Levantamento de Soluções e Análise Crítica
 
