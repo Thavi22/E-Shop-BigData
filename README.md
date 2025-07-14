@@ -4,7 +4,7 @@
 
 ## Introdução
 
-A E-Shop Brasil é uma das maiores plataformas de comércio eletrônico do país, oferecendo uma ampla variedade de produtos — de eletrônicos a itens de moda — e atendendo milhões de clientes em todo o território nacional. Fundada em 2010, a empresa já ultrapassou a marca de 5 milhões de clientes ativos e atualmente processa em média 100 mil pedidos por dia.
+A E-Shop Brasil é uma das maiores plataformas de comércio eletrônico do país, oferecendo uma ampla variedade de produtos de eletrônicos a itens de moda e atendendo milhões de clientes em todo o território nacional. Fundada em 2010, a empresa já ultrapassou a marca de 5 milhões de clientes ativos e atualmente processa em média 100 mil pedidos por dia.
 
 Com o crescimento acelerado das operações, surgem também desafios cada vez mais complexos relacionados à gestão eficiente dos dados, personalização da experiência do usuário e otimização da logística. A equipe de Tecnologia da Informação da E-Shop Brasil foi encarregada de desenvolver uma solução que resolva esses problemas com o uso de tecnologias modernas de bancos de dados e Big Data, garantindo resultados escaláveis e sustentáveis.
 
