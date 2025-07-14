@@ -27,4 +27,53 @@ A proposta será implementada utilizando bancos de dados relacionais (SQL), banc
 - **Big Data (Hadoop, Spark)**: como referência teórica e técnica para soluções escaláveis.
 - **Kaggle** ou dados fictícios: para popular o banco MongoDB com informações simuladas.
 
+## Descrição do Projeto
+
+A proposta foi desenvolvida com foco na praticidade, replicabilidade e organização da infraestrutura utilizando Docker, MongoDB e Streamlit.
+
+### Ambiente com Docker
+
+Para garantir que qualquer usuário consiga executar o projeto localmente com o mesmo ambiente, foi utilizada a tecnologia Docker. O projeto pode ser executado utilizando:
+
+- **Dockerfile**: Criação manual da imagem.
+- **docker-compose.yml**: Para subir automaticamente um container com MongoDB.
+
+Com isso, é possível isolar as dependências, padronizar a execução e evitar erros de configuração local.
+
+### Banco de Dados NoSQL – MongoDB
+
+O banco de dados MongoDB será utilizado para armazenar os dados dos clientes e das operações simuladas. Ele é ideal para lidar com dados semi-estruturados e não estruturados, como informações de navegação, carrinhos de compras e histórico de buscas.
+
+Serão realizadas as seguintes operações:
+- Inserção de dados
+- Edição ou exclusão de registros
+- Concatenação de dados entre coleções
+- Consultas e leitura com exibição via interface gráfica
+
+### Aplicação em Python com Streamlit
+
+A aplicação principal será desenvolvida em Python utilizando a biblioteca Streamlit para criação de uma interface gráfica simples, onde o usuário poderá:
+- Inserir dados diretamente no MongoDB
+- Visualizar os dados em tabelas
+- Fazer consultas personalizadas
+- Executar operações CRUD (Create, Read, Update, Delete)
+
+O código principal será desenvolvido no arquivo `app.py`.
+
+### Dados de Exemplo
+
+Para testar o funcionamento do sistema, serão utilizados dados fictícios criados manualmente ou extraídos de plataformas como o [Kaggle](https://www.kaggle.com/), com foco em simular um ambiente realista de e-commerce.
+
+---
+
+## Passos para Execução
+
+### Pré-requisitos:
+- Docker instalado na máquina
+- Python (se preferir rodar localmente sem Docker)
+
+### Passos para rodar o projeto com Docker Compose:
+
+```bash
+docker-compose up
 
