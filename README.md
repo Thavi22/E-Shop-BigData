@@ -60,10 +60,6 @@ A aplicação principal será desenvolvida em Python utilizando a biblioteca Str
 
 O código principal será desenvolvido no arquivo `app.py`.
 
-### Dados de Exemplo
-
-Para testar o funcionamento do sistema, serão utilizados dados fictícios criados manualmente ou extraídos de plataformas como o [Kaggle](https://www.kaggle.com/), com foco em simular um ambiente realista de e-commerce.
-
 ---
 
 ## Passos para Execução
