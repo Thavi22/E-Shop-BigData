@@ -77,3 +77,17 @@ Para testar o funcionamento do sistema, serão utilizados dados fictícios criad
 ```bash
 docker-compose up
 
+## Exemplos Vísuais da Aplicação
+
+### Tela Inicial do Sistema 
+![Tela Inicial](Exemplos/Formulario_cadastro.png)
+
+###  Cliente Cadastrado
+![Cadastro](Exemplo/Cliente_cadastro.png)
+
+###Visualização dos Clientes
+![Visualização](Exemplos/Visualizacao_clientes.png)
+
+###Exclusão de Cliente
+![Exclusão](Exemplos/Exclusao_cadastro.png) 
+
